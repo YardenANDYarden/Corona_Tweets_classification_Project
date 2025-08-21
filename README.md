@@ -23,11 +23,6 @@ This project performs sentiment analysis on COVID-19 related tweets using two st
     - When running: `git_Final_report_test_cardiffnlp.ipynb`,`Final_report_test_Bert-base-uncased.ipynb` or any code from Compression folder:
    - Download data files from: https://drive.google.com/drive/folders/106ZMER63xe-W9CrslRpyjUMtUpF7rb9Z?usp=sharing
    - Extract and place all files in the `data/` folder
-   
-   **For Final Report Execution:**
-   - When running `git_Final_report_test_cardiffnlp.ipynb`, download additional files from: https://drive.google.com/drive/folders/1SQqFX_sUHeb_rtbhUHx6C-9vch3WQb8L?usp=sharing
-   - Extract and place all files in the `data/` folder
-   
 
 ## Project Structure
 
