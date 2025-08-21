@@ -11,6 +11,7 @@ This project performs sentiment analysis on COVID-19 related tweets using two st
 
 ### Prerequisites
 - Python 3.8+
+- torch>=2.6   >   safetensors>=0.4.0
 - PyTorch
 - Transformers library
 - Jupyter Notebook
