@@ -26,6 +26,8 @@ This project performs sentiment analysis on COVID-19 related tweets using two st
    
    **For Final Report Execution:**
    - When running `git_Final_report_test_cardiffnlp.ipynb`, download additional files from: https://drive.google.com/drive/folders/1SQqFX_sUHeb_rtbhUHx6C-9vch3WQb8L?usp=sharing
+   - Extract and place all files in the `data/` folder
+   
 
 ## Project Structure
 
