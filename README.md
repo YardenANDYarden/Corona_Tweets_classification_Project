@@ -42,6 +42,7 @@ BERT model training and fine-tuning:
 - `.gitkeep` - Git folder tracking
 - `BERT-base-uncased-API-traning` - API-based BERT training
 - `BERT-base-uncased-optuna-train` - Optuna optimization for BERT training
+- `Final_report_test_Bert-base-uncased.ipynb`- **TEST report notebook for all bert-base-uncased pre- trained models**
 
 ### `/data`
 Dataset files and processed data:
@@ -61,7 +62,7 @@ Jupyter notebooks for data analysis and experiments:
 ### `/twitter-roberta-base-training`
 RoBERTa model training and evaluation:
 - `dir_cardiffnlp_API_training.ipynb` - Cardiff NLP API training
-- `git_Final_report_test_cardiffnlp.ipynb` - **TEST report notebook for all pre- trained models**
+- `git_Final_report_test_cardiffnlp.ipynb` - **TEST report notebook for all twitter-roberta pre- trained models**
 - `git_cardiffnlp_optuna_training.ipynb` - Optuna optimization for RoBERTa
 
 
