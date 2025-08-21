@@ -18,9 +18,9 @@ This project performs sentiment analysis on COVID-19 related tweets using two st
 
 ## Download required data files:
    
-   **IMPORTANT:** Before running any scripts, you must download the following files:
+   **IMPORTANT:** 
    
-   **Compression Data Setup:**
+    - When running: `git_Final_report_test_cardiffnlp.ipynb`,`Final_report_test_Bert-base-uncased.ipynb` or any code from Compression folder:
    - Download data files from: https://drive.google.com/drive/folders/106ZMER63xe-W9CrslRpyjUMtUpF7rb9Z?usp=sharing
    - Extract and place all files in the `data/` folder
    
